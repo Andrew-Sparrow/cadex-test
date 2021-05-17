@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "isCompleted": true
+    },
+    {
+      "isCompleted": false,
+      "text": "Meeting at School",
+      "id": "xU5UOHz"
+    },
+    {
+      "isCompleted": false,
+      "text": "Watch Movie",
+      "id": "gUTYfKB"
+    }
+  ]
+}
